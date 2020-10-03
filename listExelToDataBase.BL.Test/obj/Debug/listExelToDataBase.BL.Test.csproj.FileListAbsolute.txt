@@ -1,0 +1,15 @@
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\listExelToDataBase.BL.Test.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\listExelToDataBase.BL.Test.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\nunit.framework.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\nunit.framework.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\nunit.framework.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\obj\Debug\listExelToDataBase.BL.Test.csprojAssemblyReference.cache
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\obj\Debug\listExelToDataBase.BL.Test.csproj.CoreCompileInputs.cache
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\obj\Debug\listExelToDataBase.BL.Test.csproj.CopyComplete
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\obj\Debug\listExelToDataBase.BL.Test.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\obj\Debug\listExelToDataBase.BL.Test.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\listExelToDataBase.BL.Test.dll.config
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\EntityFramework.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\EntityFramework.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL.Test\bin\Debug\EntityFramework.SqlServer.xml

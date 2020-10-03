@@ -1,0 +1,12 @@
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\listExelToDataBase.BL.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\listExelToDataBase.BL.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\obj\Debug\listExelToDataBase.BL.csprojAssemblyReference.cache
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\obj\Debug\listExelToDataBase.BL.csproj.CoreCompileInputs.cache
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\obj\Debug\listExelToDataBase.BL.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\obj\Debug\listExelToDataBase.BL.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\listExelToDataBase.BL.dll.config
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\EntityFramework.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\EntityFramework.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\obj\Debug\listExelToDataBase.BL.csproj.CopyComplete

@@ -1,0 +1,19 @@
+﻿NameSubjectRussianFederation:Наименование субъекта Российской Федерации
+YearActivityCarriedOut:Год, в котором осуществляется деятельность
+MedicalOrganizationCode:Код медицинской организации
+FullNameMedicalOrganization:Полное наименование медицинской организации
+ShortNameMedicalOrganization:Краткое наименование медицинской организации
+OrganizationalLegalForm:Организационно-правовая форма МО(ОКОПФ)
+Postcode:Почтовый индекс
+AddressMedicalOrganization:Адрес (место) нахождения МО
+SurnameHead:Фамилия руководителя
+NameHead:Имя руководителя
+PatronymicHead:Отчество руководителя
+Phone:Телефон
+Fax:Факс
+E-mail:Адрес электронной почты
+LicenseNumber:Номер лицензии
+LicenseIssueDate:Дата выдачи лицензии
+LicenseExpirationDate:Дата окончания срока действия лицензии
+TypesMedicalCare:Виды медицинской помощи
+DateInclusionInRegister:Дата включения МО в реестр МО 

@@ -1,0 +1,12 @@
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\bin\Debug\listExelToDataBase.Data.dll.config
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\bin\Debug\listExelToDataBase.Data.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\bin\Debug\listExelToDataBase.Data.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\bin\Debug\EntityFramework.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\bin\Debug\EntityFramework.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\obj\Debug\listExelToDataBase.Data.csproj.CoreCompileInputs.cache
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\obj\Debug\listExelToDataBase.Data.csproj.CopyComplete
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\obj\Debug\listExelToDataBase.Data.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\obj\Debug\listExelToDataBase.Data.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.Data\obj\Debug\listExelToDataBase.Data.csprojAssemblyReference.cache
