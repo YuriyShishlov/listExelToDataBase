@@ -11,7 +11,7 @@ NameHead:Имя руководителя
 PatronymicHead:Отчество руководителя
 Phone:Телефон
 Fax:Факс
-E-mail:Адрес электронной почты
+Email:Адрес электронной почты
 LicenseNumber:Номер лицензии
 LicenseIssueDate:Дата выдачи лицензии
 LicenseExpirationDate:Дата окончания срока действия лицензии

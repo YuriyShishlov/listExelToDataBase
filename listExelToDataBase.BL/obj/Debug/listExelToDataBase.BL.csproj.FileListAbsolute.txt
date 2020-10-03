@@ -10,3 +10,8 @@ F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\EntityFramew
 F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\EntityFramework.xml
 F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\EntityFramework.SqlServer.xml
 F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\obj\Debug\listExelToDataBase.BL.csproj.CopyComplete
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\System.Data.SQLite.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\System.Data.SQLite.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase.BL\bin\Debug\System.Data.SQLite.dll.config

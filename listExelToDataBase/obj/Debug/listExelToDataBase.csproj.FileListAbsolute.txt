@@ -13,3 +13,8 @@ F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\obj\Debug\listExelToDataB
 F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\obj\Debug\listExelToDataBase.csproj.CopyComplete
 F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\obj\Debug\listExelToDataBase.exe
 F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\obj\Debug\listExelToDataBase.pdb
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\bin\Debug\System.Data.SQLite.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\bin\Debug\System.Data.SQLite.xml
+F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\bin\Debug\System.Data.SQLite.dll.config
