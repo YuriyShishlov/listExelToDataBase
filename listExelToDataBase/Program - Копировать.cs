@@ -9,7 +9,7 @@ namespace listExelToDataBase
     //это для перекачки данных из Exel в SQL Server
     class Program2
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             int numberInsert = 0;//для посчета добавленных строк
             //OleDbConnection connect = new OleDbConnection(@"Provider=Microsoft.Jet.OLEDB.4.0; Data Source=F:\Projects\UCIT\listExelToDataBase\listExelToDataBase\Files\listExel.xls; Extended Properties=""Excel 8.0""");
